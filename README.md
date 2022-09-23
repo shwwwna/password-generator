@@ -1,4 +1,4 @@
-# co008498b926255deb87d7dac
+# Scrimba JavaScript Solo Project 2
 
 ## About Scrimba
 
